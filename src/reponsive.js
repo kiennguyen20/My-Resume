@@ -22,7 +22,7 @@ export const mobileL = props => {
 }
 export const mobileM = props => {
   return css`
-    @media screen and (max-width: 487px) {
+    @media screen and (max-width: 480px) {
       ${props};
     }
   `

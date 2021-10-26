@@ -27,7 +27,7 @@ export default function AboutMe() {
             quite good skill about responsive website.
           </S.Content>
           <S.Content>
-            Most of my skills are learnt by watching Youtube tutorials, learning
+            Most of my skills are learn by watching Youtube tutorials, learning
             course (in Udemy and FreeCodeCamp) and reading books (being a big
             fan of O'REILLY) and documents. After learning a new technology, I
             always use it to build a real project. That’s my method which makes

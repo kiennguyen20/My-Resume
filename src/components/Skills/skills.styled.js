@@ -14,8 +14,8 @@ export const Container = styled.div`
 export const TitleHeader = styled.h1`
   color: #ffe100;
   border-bottom: 2px solid;
-  ${mobileM({ fontSize: '1rem' })}
   ${desktopM({ fontSize: '2rem' })}
+  ${mobileM({ fontSize: '1rem' })}
 `
 export const Wrapper = styled.div`
   display: flex;
@@ -40,6 +40,7 @@ export const Content = styled.div`
   margin-left: 30px;
   padding: 20px;
   height: max-content;
+  ${desktopM({ fontSize: '2rem' })}
   ${tablet({
     display: 'flex',
     flexDirection: 'column',
@@ -48,13 +49,12 @@ export const Content = styled.div`
     width: '90%'
   })}
   ${mobileM({ fontSize: '1rem' })}
-  ${desktopM({ fontSize: '2rem' })}
 `
 export const Title = styled.h3`
   color: #ff0a78;
   margin-bottom: 20px;
-  ${mobileM({ fontSize: '1rem' })}
   ${desktopM({ fontSize: '2rem' })}
+  ${mobileM({ fontSize: '1rem' })}
 `
 export const InfoContainer = styled.ul`
   color: #b3b3b3;
@@ -67,6 +67,6 @@ export const Info = styled.li`
   &:hover {
     color: white;
   }
-  ${mobileM({ fontSize: '1rem' })}
   ${desktopM({ fontSize: '2rem' })}
+  ${mobileM({ fontSize: '1rem' })}
 `
