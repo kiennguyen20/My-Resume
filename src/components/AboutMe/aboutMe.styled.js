@@ -3,7 +3,7 @@ import { mobileL, mobileM } from './../../reponsive'
 
 export const Container = styled.div`
   background-color: black;
-  width: 100vw;
+  width: 100%;
   height: max-content;
   display: flex;
   flex-wrap: wrap;
