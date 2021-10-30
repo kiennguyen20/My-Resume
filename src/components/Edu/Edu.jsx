@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import * as S from './edu.styled'
 import SchoolIcon from '@mui/icons-material/School'
-import BeatLoader from 'react-spinners/BeatLoader'
 
 export default function Edu() {
   return (

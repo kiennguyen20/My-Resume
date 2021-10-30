@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
 import * as S from './skills.styled'
-import BeatLoader from 'react-spinners/BeatLoader'
 
 export default function Skills() {
   return (
