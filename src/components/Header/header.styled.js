@@ -94,9 +94,10 @@ export const StyleNavLink = styled(NavLink)`
   justify-content: center;
   height: 100%;
   cursor: pointer;
-  transition: all 1s ease;
+  transition: all 1s ease-out;
   border-radius: 10px;
   outline: 10px;
+  margin-right: 5px;
   &:hover {
     background-color: #333333;
   }
@@ -107,7 +108,7 @@ export const StyleNavLink = styled(NavLink)`
   ${mobileL({ marginRight: '5px', width: '20%' })}
   ${mobileM({ fontSize: '1rem', width: '20%', height: '40%' })}
 `
-export const Download = styled.button`
+export const Download = styled.a`
   height: 80%;
   display: flex;
   align-items: center;

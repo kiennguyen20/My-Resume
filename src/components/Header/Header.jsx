@@ -37,7 +37,10 @@ export default function Header() {
               Education
             </S.StyleNavLink>
 
-            <S.Download>
+            <S.Download
+              href="https://drive.google.com/drive/u/0/folders/1y7NWEzCm2TP4VuUnGxSY46crxEVcWun1"
+              target="_blank"
+            >
               <S.IconButton>
                 <DownloadIcon />
               </S.IconButton>{' '}
