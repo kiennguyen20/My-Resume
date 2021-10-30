@@ -5,7 +5,6 @@ import PhoneIphoneIcon from '@mui/icons-material/PhoneIphone'
 import EmailIcon from '@mui/icons-material/Email'
 import FacebookIcon from '@mui/icons-material/Facebook'
 import GitHubIcon from '@mui/icons-material/GitHub'
-import BeatLoader from 'react-spinners/BeatLoader'
 export default function AboutMe() {
   return (
     <S.Container>
