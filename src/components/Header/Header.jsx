@@ -38,7 +38,7 @@ export default function Header() {
             </S.StyleNavLink>
 
             <S.Download
-              href="https://drive.google.com/drive/u/0/folders/1y7NWEzCm2TP4VuUnGxSY46crxEVcWun1"
+              href="https://drive.google.com/file/d/1qGVkysORw0i7ISAmAPTVAVLtEssS2KJl/view?usp=sharing"
               target="_blank"
             >
               <S.IconButton>
