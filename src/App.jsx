@@ -18,8 +18,9 @@ function App() {
       <div className="App">
         <Routes />
       </div>
-    )
+    
     </ThemeProvider>
+)
 }
 
 export default App
