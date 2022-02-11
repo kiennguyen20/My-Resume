@@ -15,7 +15,7 @@ export default function Header() {
             <S.Cover>
               <S.CoverImg src="https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80" />
               <S.Avatar>
-                <S.AvatarImg src="https://scontent.fsgn8-2.fna.fbcdn.net/v/t1.6435-9/91899686_2607446172877499_6401062495947063296_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_ohc=geeyGQu8j8UAX9i4tAd&_nc_ht=scontent.fsgn8-2.fna&oh=d71258da761bfc31d43431c799b6c6f6&oe=61C3A2E4" />
+                <S.AvatarImg src="https://scontent.fsgn8-1.fna.fbcdn.net/v/t1.6435-9/91899686_2607446172877499_6401062495947063296_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_ohc=ndE_mBdvEawAX_CqSIL&_nc_ht=scontent.fsgn8-1.fna&oh=00_AT-kWLy7mND83-CFwISGFvNmAzkgw6lTDP4lPNpF_mHwjQ&oe=622A77E4" />
               </S.Avatar>
             </S.Cover>
             <S.TitleHeader>
